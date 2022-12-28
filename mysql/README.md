@@ -1,7 +1,5 @@
 # Mysql Helm chart with Existing Secrets
 
-## Pre-Requisite
-
 ## Pre-Requisites
 
 ```bash
