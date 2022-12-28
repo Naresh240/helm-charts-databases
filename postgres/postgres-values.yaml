@@ -1,0 +1,4 @@
+auth:
+  database: "psqldb"
+  username: "naresh240"
+  existingSecret: "postgresql-secrets"
